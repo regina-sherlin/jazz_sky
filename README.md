@@ -1,4 +1,4 @@
-# Latte Room Landing Page
+# Tip Calculator
 
 Website URL 🚀 -  [Click here](https://regina-sherlin.github.io/jazz_sky/)
 
@@ -14,7 +14,6 @@ Website URL 🚀 -  [Click here](https://regina-sherlin.github.io/jazz_sky/)
 # What have I learnt in the process? 🤸
   * I understood the problem statement deeply only in the process of developing.
   * I learnt about flexbox here. To divide sections and name them with BEM conventions.
-  * I think I am more comfortable with building a basic format and structure of a landing page.
  
  # Things to add in the future ⌚
  * Maybe add more functionality
